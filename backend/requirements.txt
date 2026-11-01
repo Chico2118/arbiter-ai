@@ -1,0 +1,5 @@
+# Runtime dependencies (versions verified on Python 3.13, Windows 11)
+fastapi==0.156.8
+uvicorn==0.54.0
+httpx==0.28.1
+keyring==25.7.0
